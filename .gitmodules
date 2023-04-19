@@ -17,3 +17,8 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 15.0
+
+[submodule "ingadhoc/purchase"]
+	path = ingadhoc/purchase
+	url = git@github.com:ingadhoc/purchase.git
+	branch = 15.0

@@ -22,3 +22,8 @@
 	path = ingadhoc/purchase
 	url = git@github.com:ingadhoc/purchase.git
 	branch = 15.0
+
+[submodule "leobozzi/cl-kilbel"]
+	path = leobozzi/cl-kilbel
+	url = git@github.com:leobozzi/cl-kilbel.git
+	branch = 15.0

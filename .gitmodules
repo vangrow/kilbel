@@ -8,7 +8,6 @@
 	url = git@github.com:OCA/hr-attendance.git
 	branch = 15.0
 
-<<<<<<< HEAD
 [submodule "OCA/hr-holidays"]
 	path = OCA/hr-holidays
 	url = git@github.com:OCA/hr-holidays.git
@@ -29,8 +28,6 @@
 	url = git@github.com:leobozzi/cl-kilbel.git
 	branch = 15.0
 
-=======
->>>>>>> 451d544aade95de8acb415857c23da1b95a89b00
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
@@ -41,14 +38,11 @@
 	url = git@github.com:OCA/web.git
 	branch = 15.0
 
-<<<<<<< HEAD
-=======
 [submodule "OCA/hr-holidays"]
 	path = OCA/hr-holidays
 	url = git@github.com:OCA/hr-holidays.git
 	branch = 15.0
 
->>>>>>> 451d544aade95de8acb415857c23da1b95a89b00
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
@@ -59,13 +53,12 @@
 	url = git@github.com:OCA/website.git
 	branch = 15.0
 
-<<<<<<< HEAD
 [submodule "OCA/stock-logistics-barcode"]
 	path = OCA/stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
-=======
+	branch = 15.0
+
 [submodule "leobozzi/cl-kilbel"]
 	path = leobozzi/cl-kilbel
 	url = git@github.com:leobozzi/cl-kilbel.git
->>>>>>> 451d544aade95de8acb415857c23da1b95a89b00
 	branch = 15.0
